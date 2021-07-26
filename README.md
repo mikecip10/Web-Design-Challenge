@@ -2,7 +2,7 @@
 
 ## Objective: For this homework we be created a visualization dashboard website using visualizations we've created in a past assignment (weather data).
 
-### Link to website: file:///D:/CODE/Homework%2011/Web-Design-Challenge/landing.html
+### Link to website: (file:///D:/CODE/Homework%2011/Web-Design-Challenge/landing.html)
 
 ### The website includes:
 1.) A landing page that allows the user to determine which chart they want to see a deeper analysis on.
